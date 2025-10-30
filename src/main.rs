@@ -1,3 +1,4 @@
+//test
 pub trait Vector {
     const ZERO: Self;
     fn cross(&self, v: Self) -> Self;
